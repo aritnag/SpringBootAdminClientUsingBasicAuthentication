@@ -1,0 +1,2 @@
+# SpringBootAdminClientUsingBasicAuthentication
+Spring Boot Admin Client Configuration using Basic HTTP Authentication
